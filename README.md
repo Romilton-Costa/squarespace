@@ -1,6 +1,6 @@
 # Squarespace
 
-Projeto de prático afins de testar os conhecimentos.
+Projeto prático afins de testar os conhecimentos.
 ## 📦 Tecnologias usadas:
 
 * ![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
