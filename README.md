@@ -9,4 +9,3 @@ Projeto prático afins de testar os conhecimentos.
 
 ## Redes socias  
 * [Linkedin](https://www.linkedin.com/in/romilton-costa/)
-* [github](https://github.com/romiltondev)
