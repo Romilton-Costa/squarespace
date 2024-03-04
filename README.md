@@ -1,7 +1,7 @@
 # Squarespace
 
 Projeto prático afins de testar os conhecimentos.
-* <a href=“https://squaresq.vercel.app/“ target="_blank">Acesse aqui</a>
+* <a href="https://squaresq.vercel.app/" target="_blank">Acesse aqui</a>
 ## 📦 Tecnologias usadas:
 
 * ![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
