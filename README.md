@@ -1,6 +1,7 @@
 # Squarespace
 
 Projeto prático afins de testar os conhecimentos.
+![Squarespace](./assets/space.PNG)
 * <a href="https://squaresq.vercel.app/" target="_self">Acesse aqui</a>
 ## 📦 Tecnologias usadas:
 
